@@ -5,7 +5,6 @@ This repository contains the code and data analysis for my Master's thesis by **
 ## 📋 Project Description
 
 This project analyzes user experience key performance indicators (KPIs) using survey data. 
-The main Python script (`ipa.py`) processes participant responses to calculate performance and importance scores across various dimensions, and generates summary tables and visualizations.
 
 ## 📁 Contents
 
