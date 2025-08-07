@@ -9,15 +9,17 @@ The main Python script (`ipa.py`) processes participant responses to calculate p
 
 ## 📁 Contents
 
-- `ipa.py`: Main analysis script performing data cleaning, KPI calculation, and plotting
-- `ipa_data.csv`: Input data file containing survey responses
+- `ipa.py ,kpi.py`: Main analysis scripts performing data cleaning, KPI calculation, ipa calcualtion
+- `ipa_data.csv`,`kpi_data.csv`: Input data file containing survey responses
 - `participant_scores.xlsx`: Excel output with participant-level KPI scores
 - `summary_table.xlsx`: Excel output summarizing KPI dimensions with confidence intervals
-- `demo_video.mp4`: Demo video showcasing the project
+- `data_moodleux_original`:orignal survey Data without editing
+- `comments
+- `Figures Contained in the Thesis
 
 ## ▶️  Videos
 
-The demo video file is included in this repository as `demo_video.mp4`.
+Usabilty Test Videos for Screen Recordings
 
 ## 🧪 How to Run
 
